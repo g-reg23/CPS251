@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Add Name Save Data</string>
+    <string name="name">Name</string>
+    <string name="add_name">Add Name</string>
+    <string name="reverse">Revers</string>
+    <string name="sort">Sort</string>
+</resources>
